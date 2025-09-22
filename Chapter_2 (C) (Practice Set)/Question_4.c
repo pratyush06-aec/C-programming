@@ -1,0 +1,1 @@
+// (*) & (/) would be evaluated first and then the (-), (+), and the whole calculation would move from left to right.
